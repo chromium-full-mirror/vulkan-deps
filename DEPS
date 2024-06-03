@@ -12,6 +12,9 @@ vars = {
   # Current revision of glslang, the Khronos SPIRV compiler.
   'glslang_revision': '0e311906b92f8cc74eab258260343074b00a9710',
 
+  # Current revision of Lunarg VulkanTools
+  'lunarg_vulkantools_revision': '27ebab7411bf59f9e9e42a5f6946a03eb9e425b8',
+
   # Current revision of spirv-cross, the Khronos SPIRV cross compiler.
   'spirv_cross_revision': 'b8fcf307f1f347089e3c46eb4451d27f32ebc8d3',
 
@@ -40,6 +43,10 @@ vars = {
 deps = {
   'glslang/src': {
     'url': '{chromium_git}/external/github.com/KhronosGroup/glslang@{glslang_revision}',
+  },
+
+  'lunarg-vulkantools/src': {
+    'url': '{chromium_git}/external/github.com/LunarG/VulkanTools@{lunarg_vulkantools_revision}',
   },
 
   'spirv-cross/src': {

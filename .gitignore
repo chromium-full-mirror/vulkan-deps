@@ -1,5 +1,6 @@
 DEPS.old
 /glslang/src
+/lunarg-vulkantools
 /spirv-cross/src
 /spirv-headers/src
 /spirv-tools/src
