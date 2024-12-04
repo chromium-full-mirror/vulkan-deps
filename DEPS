@@ -19,7 +19,7 @@ vars = {
   'spirv_cross_revision': 'b8fcf307f1f347089e3c46eb4451d27f32ebc8d3',
 
   # Current revision fo the SPIRV-Headers Vulkan support library.
-  'spirv_headers_revision': '36d5e2ddaa54c70d2f29081510c66f4fc98e5e53',
+  'spirv_headers_revision': '3f17b2af6784bfa2c5aa5dbb8e0e74a607dd8b3b',
 
   # Current revision of SPIRV-Tools for Vulkan.
   'spirv_tools_revision': '3fb52548bc8a68d349d31e21bd4e80e3d953e87c',
