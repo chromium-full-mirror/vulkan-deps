@@ -37,7 +37,7 @@ vars = {
   'vulkan_utility_libraries_revision': '6878b60ffdabe0ce79f02163c4430c27d21d1e41',
 
   # Current revision of Khronos Vulkan-ValidationLayers.
-  'vulkan_validation_revision': '0aa563647760c64e5baeb9ffd3989606c9ba75b4',
+  'vulkan_validation_revision': 'd4d5664a20552f34cd9882c12bd4de2bc9c1e77b',
 }
 
 deps = {
