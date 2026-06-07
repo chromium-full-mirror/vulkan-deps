@@ -28,7 +28,7 @@ vars = {
   'vulkan_headers_revision': '45834b722e29ca6968f3811ae930eae7bb73e9e8',
 
   # Current revision of Khronos Vulkan-Loader.
-  'vulkan_loader_revision': '942f0dbdefdb0f883fb2f9e68ba9e5200b3f32d1',
+  'vulkan_loader_revision': '55c2c47ddbcea24fce005083cf0f4529576f9c4e',
 
   # Current revision of Khronos Vulkan-Tools.
   'vulkan_tools_revision': '68749eafbf27114a1dd807d6c870e53306673e64',
