@@ -13,7 +13,7 @@ vars = {
   'glslang_revision': '168d452a4f460d24b588fed08477a81c44ee27a1',
 
   # Current revision of Lunarg VulkanTools
-  'lunarg_vulkantools_revision': 'cd68ac53cfff6264e7029b2072443dd793a44899',
+  'lunarg_vulkantools_revision': 'd7f003943a89abd64538aaa4a351fbbe871f9649',
 
   # Current revision of spirv-cross, the Khronos SPIRV cross compiler.
   'spirv_cross_revision': 'b8fcf307f1f347089e3c46eb4451d27f32ebc8d3',
