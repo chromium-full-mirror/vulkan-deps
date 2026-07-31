@@ -2,9 +2,9 @@ Name: Khronos Vulkan Tools Components
 Short Name: Vulkan Tools
 Version: N/A
 URL: https://github.com/KhronosGroup/Vulkan-Tools
-Update Mechanism: Manual
+Update Mechanism: Autoroll
 SOURCE CODE: git clone https://github.com/KhronosGroup/Vulkan-Tools.git
-Revision: DEPS
+Revision: a354dc33efa5f0f30fae6db9c198116b6bda584f
 Security Critical: no
 Shipped: no
 License: Apache-2.0
