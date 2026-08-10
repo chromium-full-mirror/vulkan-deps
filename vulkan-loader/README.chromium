@@ -4,7 +4,7 @@ Version: N/A
 URL: https://github.com/KhronosGroup/Vulkan-Loader
 Update Mechanism: Autoroll
 SOURCE CODE: git clone https://github.com/KhronosGroup/Vulkan-Loader.git
-Revision: ff6f71acd66aa2f11c53bb227d07842db4e46da3
+Revision: fc8465f0a5b605e070e5ca9fe3064249926deb2d
 Security Critical: no
 Shipped: yes
 License: Apache-2.0
