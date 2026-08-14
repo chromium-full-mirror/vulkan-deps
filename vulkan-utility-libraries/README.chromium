@@ -4,7 +4,7 @@ Version: N/A
 URL: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 Update Mechanism: Autoroll
 SOURCE CODE: git clone https://github.com/KhronosGroup/Vulkan-Utility-Libraries.git
-Revision: 120d418dd8fa884c82c783578ca381d2c81c92c9
+Revision: 245b48c522b5375c0acd5377d52bef5e4917f31e
 Security Critical: no
 Shipped: no
 License: Apache-2.0
