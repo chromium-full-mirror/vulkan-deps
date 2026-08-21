@@ -10,7 +10,7 @@ vars = {
   'chromium_git': 'https://chromium.googlesource.com',
 
   # Current revision of glslang, the Khronos SPIRV compiler.
-  'glslang_revision': '3c14556a7001b5138205b7028d848d890e75a3e4',
+  'glslang_revision': 'cc59a21628dc2adcb61bff2852bf78d944dc641f',
 
   # Current revision of Lunarg VulkanTools
   'lunarg_vulkantools_revision': '5ce04fabf196c57af002e1d6fbdb2f1e339a89d1',
