@@ -3,7 +3,7 @@ Short Name: glslang
 URL: https://github.com/KhronosGroup/glslang
 Update Mechanism: Autoroll
 Version: N/A
-Revision: eaff806e30cbe8ce138f1f3edcee5f0977a14a9a
+Revision: 23076b376e06a99b4c765df5c9836d127c8bbbfc
 Security Critical: yes
 Shipped: no
 License: MIT
