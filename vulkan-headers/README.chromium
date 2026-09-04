@@ -3,7 +3,7 @@ Short Name: Vulkan
 URL: https://github.com/KhronosGroup/Vulkan-Headers
 Update Mechanism: Autoroll
 Version: N/A
-Revision: 31386378257ac8653ce5b32c93baec385259ebbe
+Revision: ee2ec5fd83dafce291024683b50dc89219333076
 Security Critical: yes
 Shipped: yes
 License: Apache-2.0
