@@ -22,7 +22,7 @@ vars = {
   'spirv_headers_revision': '04fd3caa1e8267e4d95c806cad901181728e1006',
 
   # Current revision of SPIRV-Tools for Vulkan.
-  'spirv_tools_revision': '9abb194732777e849290dbd35e874bf3b91ba17e',
+  'spirv_tools_revision': '25318da789b94854908a15b4c718145e4e63fc87',
 
   # Current revision of Khronos Vulkan-Headers.
   'vulkan_headers_revision': 'ee2ec5fd83dafce291024683b50dc89219333076',
