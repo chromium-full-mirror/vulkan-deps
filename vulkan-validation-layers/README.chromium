@@ -4,7 +4,7 @@ Version: N/A
 URL: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 Update Mechanism: Autoroll
 SOURCE CODE: git clone https://github.com/KhronosGroup/Vulkan-ValidationLayers.git
-Revision: d2add450ca025195b88fdb09bf69fd9c5e79dbf7
+Revision: f0cd71165b12ecad7ab7148d3bcd7fa9904baf6e
 Security Critical: no
 Shipped: no
 License: Apache-2.0
