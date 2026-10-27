@@ -3,7 +3,7 @@ Short Name: SPIRV-Tools
 URL: https://github.com/KhronosGroup/SPIRV-Tools.git
 Update Mechanism: Autoroll
 Version: N/A
-Revision: 2f19fe02d441a91fe193a068b185a3a023311493
+Revision: b17cfe0b45004f5ca1c4aea940b074b5cad0e3cd
 Security Critical: yes
 Shipped: yes
 License: Apache-2.0
