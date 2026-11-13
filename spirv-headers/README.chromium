@@ -3,7 +3,7 @@ Short Name: spirv-headers
 URL: https://github.com/KhronosGroup/SPIRV-Headers.git
 Update Mechanism: Autoroll
 Version: N/A
-Revision: 6d2fa158a02511287fbb624f045ac06a8211fb49
+Revision: 5c6004e758e0c80185ef2cee93ae5c10fa342a5b
 Security Critical: yes
 Shipped: yes
 License: MIT
