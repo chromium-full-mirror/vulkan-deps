@@ -4,7 +4,7 @@ Version: N/A
 URL: https://github.com/LunarG/VulkanTools
 Update Mechanism: Autoroll
 SOURCE CODE: git clone https://github.com/LunarG/VulkanTools.git
-Revision: 730b28f73207351c6266754c67bcfc4ea11b7711
+Revision: 328bbcab55f742075528906f1260606a28f9bcfa
 Security Critical: no
 Shipped: no
 License: Apache-2.0
